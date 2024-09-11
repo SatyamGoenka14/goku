@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "65aa11fabcc78bcf0acf502e"
+  },
+  "RIG": "admin",
+  "password": "0192023a7bbd73250516f069df18b500",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614247a4c1764819036e575"
+  },
+  "RIG": "aman",
+  "password": "d04fcc6b2fceaee8d9c3fd99a8d789a7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614247d6ac4b3e6d85a743f"
+  },
+  "RIG": "soppi",
+  "password": "0d8c5b4b6f02d99a0342a164af396bbd",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661424a4be05abdd9cd5d561"
+  },
+  "RIG": "gaurav",
+  "password": "32cacb2f994f6b42183a1300d9a3e8d6",
+  "__v": 0
+}]

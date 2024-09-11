@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65aec93310e08919e766b80e"
+  },
+  "RIG": "aman",
+  "password": "ccdfe57efc107df49af2c6236137baa2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614445be2db443cf46fb377"
+  },
+  "RIG": "aps",
+  "password": "6524fbb44e3d8660f20ee545d9480ddb",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e09548a418a5190a635c25"
+  },
+  "RIG": "aman",
+  "password": "bd00eb0f2a3ce174d021c6c7a6163eba",
+  "__v": 0
+}]

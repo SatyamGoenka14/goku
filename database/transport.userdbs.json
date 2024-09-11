@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "66143b61fed4b9068f8b7427"
+  },
+  "truckNumber": "2101028",
+  "pickdate": "2024-04-05",
+  "deldate": "2024-04-12",
+  "Truck": "soppi bhai",
+  "Sender": "gaurav",
+  "Receiver": "aman",
+  "Status": "Arrived",
+  "Addresssender": "gorakhpur",
+  "Addressreceiver": "bharatpur",
+  "ConsignmentNumber": "210",
+  "Volume": "100",
+  "__v": 0
+}]

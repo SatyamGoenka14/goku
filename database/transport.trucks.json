@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6614390d3ce412bddb2953d5"
+  },
+  "truck_name": "Soppi bhai",
+  "truck_model": "audi",
+  "truck_number": "2101038",
+  "truck_year": 2024,
+  "truck_capacity": 10,
+  "driver_name": "Soppi",
+  "driver_license": "2101",
+  "driver_contact": "9057",
+  "truck_status": "Free",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661439363ce412bddb2953e0"
+  },
+  "truck_name": "Soppi bhai",
+  "truck_model": "mercedes",
+  "truck_number": "2101038",
+  "truck_year": 2024,
+  "truck_capacity": 10,
+  "driver_name": "Soppi",
+  "driver_license": "2101",
+  "driver_contact": "9057",
+  "truck_status": "Free",
+  "__v": 0
+}]
